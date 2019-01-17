@@ -1,3 +1,7 @@
+Here is the source code for [My React Demo Site](https://benhowarddev.com)
+
+I consumed a [free movie API](http://www.omdbapi.com/) API for this demo.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
