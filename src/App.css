@@ -22,8 +22,53 @@
   color: #61dafb;
 }
 
-.Poster {
+.poster {
   max-width: 150px;
+}
+
+.movie {
+  max-width: 500px;
+  margin: 20px 20px 20px 20px;
+}
+
+.movie.bottom {
+  color: #fff;
+  background-color: #000;
+  margin : 0;
+}
+
+.center {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.header{
+  text-align: center;
+  color: #fff;
+  background-color: #000;
+  padding: 10px;
+}
+
+.btn{
+  margin: 5px;
+}
+
+.searchBox{
+  width: 50%;
+  height: calc(2.25rem + 2px);
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+
 }
 
 @keyframes App-logo-spin {
